@@ -43,5 +43,4 @@ Divide it into subarrays of those many factors and then see if the starting elel
 
 __Bitmask__ (LEARN)
 
-
 ## Q3: 2193E

@@ -19,7 +19,7 @@ int main() {
         for (int i = 0; i < n; i++)
             scanf("%d", &a[i]);
 
-        if (n == 1) {          // 🔥 IMPORTANT
+        if (n == 1) {          //  IMPORTANT
             printf("YES\n");
             continue;
         }
